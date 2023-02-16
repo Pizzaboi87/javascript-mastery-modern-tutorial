@@ -4,9 +4,9 @@ This project is a responsive React JS application built by following the tutoria
 
 #### Technologies Used
 
-React JS<br />
-Tailwind CSS<br />
-Vite<br />
+- React JS<br />
+- Tailwind CSS<br />
+- Vite<br />
 
 #### Subjects in the tutorial
 
